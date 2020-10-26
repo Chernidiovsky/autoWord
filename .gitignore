@@ -1,0 +1,9 @@
+.idea
+*.csv
+*.txt
+*.xlsx
+*.docx
+*.png
+*.pdf
+*.pem
+*.zip
